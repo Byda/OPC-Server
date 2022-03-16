@@ -1,0 +1,12 @@
+model
+|------ Button
+|	|------ Button1 
+|		|------ State (Boolean)
+|
+|------ LED
+|	|------ LED1
+|		|------ Run (Boolean)
+|
+|------ Temp Sensor
+|	|------ LM35
+|		|------ Temperature (Float)
